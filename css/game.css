@@ -1,27 +1,12 @@
-#PhotoDouglass {
+.hidden {display: none;}
+body {background-color: beige;}
+#Suspectbox0{ font-family: sans-serif; font-size: 60px; text-align: center; background-color: aqua; color: brown;}
+#banner { font-size: 200px; }
+#BringSuspects { font-size: 500%; text-transform: uppercase; text-align: center; margin: 60px 60px; border-style: dotted;}
+#Suspectbox { text-align: center; color: red; font-size: 50px; }   
+#empty{ font-size: 80px; text-align: center; color: gold;}
     
-    float: left;  
-    height: 500px;
-    width: 33.33%;
-    
-    }
-#PhotoWashington {
-    
-    float: right;
-    height: 500px;
-    width: 33.33%;
-}
-#PhotoLady {
-    
-    float: right;
-    height: 500px;
-    width: 33.33%
-}
-.hidden {
-    
-    display: none;
-}
-
-    
-        
  
+
+
+
